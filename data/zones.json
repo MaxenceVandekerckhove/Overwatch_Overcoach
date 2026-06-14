@@ -1,0 +1,88 @@
+{
+  "resolution": [
+    2560,
+    1440
+  ],
+  "zones": [
+    {
+      "team": "ally",
+      "index": 0,
+      "x": 461,
+      "y": 251,
+      "width": 87,
+      "height": 87
+    },
+    {
+      "team": "ally",
+      "index": 1,
+      "x": 461,
+      "y": 336,
+      "width": 87,
+      "height": 89
+    },
+    {
+      "team": "ally",
+      "index": 2,
+      "x": 460,
+      "y": 425,
+      "width": 88,
+      "height": 90
+    },
+    {
+      "team": "ally",
+      "index": 3,
+      "x": 460,
+      "y": 515,
+      "width": 88,
+      "height": 88
+    },
+    {
+      "team": "ally",
+      "index": 4,
+      "x": 461,
+      "y": 601,
+      "width": 87,
+      "height": 89
+    },
+    {
+      "team": "enemy",
+      "index": 0,
+      "x": 461,
+      "y": 793,
+      "width": 85,
+      "height": 87
+    },
+    {
+      "team": "enemy",
+      "index": 1,
+      "x": 458,
+      "y": 880,
+      "width": 90,
+      "height": 85
+    },
+    {
+      "team": "enemy",
+      "index": 2,
+      "x": 458,
+      "y": 965,
+      "width": 90,
+      "height": 91
+    },
+    {
+      "team": "enemy",
+      "index": 3,
+      "x": 458,
+      "y": 1055,
+      "width": 90,
+      "height": 88
+    },
+    {
+      "team": "enemy",
+      "index": 4,
+      "x": 458,
+      "y": 1141,
+      "width": 88,
+      "height": 92
+    }
+  ]
+}
